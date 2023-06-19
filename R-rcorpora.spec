@@ -4,7 +4,7 @@
 #
 Name     : R-rcorpora
 Version  : 2.0.0
-Release  : 8
+Release  : 9
 URL      : https://cran.r-project.org/src/contrib/rcorpora_2.0.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/rcorpora_2.0.0.tar.gz
 Summary  : A Collection of Small Text Corpora of Interesting Data
